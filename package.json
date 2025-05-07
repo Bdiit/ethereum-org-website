@@ -28,7 +28,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.8.0",
+    "@chakra-ui/react": "^2.9.0",
     "@crowdin/crowdin-api-client": "^1.25.0",
     "@docsearch/react": "^3.5.2",
     "@emotion/react": "^11.11.1",
@@ -59,12 +59,12 @@
     "chartjs-plugin-datalabels": "^2.2.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "cmdk": "^1.0.0",
+    "cmdk": "^1.0.1",
     "ethereum-blockies-base64": "^1.0.2",
     "framer-motion": "^10.13.0",
     "gray-matter": "^4.0.3",
     "htmr": "^1.0.2",
-    "i18next": "^23.6.0",
+    "i18next": "^24.2.3",
     "lodash.merge": "^4.6.2",
     "lodash.shuffle": "^4.2.0",
     "lodash.union": "^4.6.0",
